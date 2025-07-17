@@ -12,15 +12,19 @@ Only use SCrypter on files you own or have explicit permission to encrypt.
 This tool is NOT intended for any illegal or harmful activities.
 
 ### *Free version showcase:*
-
+## Unprotected:  
+![alt text](https://github.com/avatar198/SCrypter/blob/main/pic1.PNG)
+## Protected:  
+![alt text](https://github.com/avatar198/SCrypter/blob/main/pic2.PNG)  
+*(paid version avoids false positives even more)*
 ## 💎 Want More? Upgrade to Paid Version!
 Take your encryption game to the next level with our paid version featuring:
 
-✨ Polymorphism — keep your code changing and unpredictable
-🛡️ Reverse Engineering Protection — harder to crack
-🔒 String Protection — hide sensitive strings effectively
-🖥️ GUI — friendly and easy-to-use graphical interface
-🎨 Custom Icons — personalize your encrypted files
+✨ Polymorphism — keep your code changing and unpredictable  
+🛡️ Reverse Engineering Protection — harder to crack  
+🔒 String Protection — hide sensitive strings effectively  
+🖥️ GUI — friendly and easy-to-use graphical interface  
+🎨 Custom Icons — personalize your encrypted files  
 
 # 📩 Interested?
 Contact me directly to get access to the premium version! Let’s make your encryption stronger and smarter. 💪
