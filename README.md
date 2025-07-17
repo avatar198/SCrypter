@@ -2,8 +2,8 @@
 Welcome to SCrypter — your simple file encryption tool!
 
 ## 🚀 Quick Usage
-Run SCrypter from the command line to encrypt your files:
-SCrypter.exe <file to encrypt>
+Run SCrypter from the command line to encrypt your files:  
+### | SCrypter.exe path_to_file |  
 Just plug in the file you want encrypted, and SCrypter does the rest!
 
 ## ⚠️ Important
